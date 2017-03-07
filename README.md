@@ -1,28 +1,23 @@
 ~~This is Simple README 
 
-~~ Source Superflux For Supergroups 
+~~ Source Doi For Doi.sa.com
 
-+~~Developer By : @Mustafaflux On Telegram ,
-
-To install on C9 your next steps
-
-
++~~Developer By : NawafAlbaqawi 
+                  Twitter: @doi_albaqawi
+                  SnapChat: Doi
+                  Instagram: Nn2T
+                  
+To install on Cydia10 your next steps
 
 #Step1 : writ this > in Terminal 
-
 sudo apt-get update 
 
-
-
 #step2 : writ this > in Terminal 
-
 sudo apt-get install libreadline-dev libconfig-dev libssl-dev lua5.2 liblua5.2-dev libevent-dev make unzip git redis-server g++ 
 libjansson-dev libpython-dev expat libexpat1-dev
 
 
-
 #step3 : writ >
-
 git clone https://github.com/mustafaflux/superflux-bot.git
 
 
