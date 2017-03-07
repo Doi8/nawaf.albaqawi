@@ -3,9 +3,9 @@
 ~~ Source Doi For Doi.sa.com
 
 +~~Developer By : NawafAlbaqawi 
-                  Twitter: @doi_albaqawi
-                  SnapChat: Doi
-                  Instagram: Nn2T
+                  Twitter: @doi_albaqawi ,
+                  SnapChat: Doi , 
+                  Instagram: Nn2T .
                   
 To install on Cydia10 your next steps
 
